@@ -1,0 +1,1 @@
+This is a mock picture journal project using React. The goal is to utilize several features like S3 and MongoDB backends and Winston to maximize performance with picture hosting and loading. The sample pictures used here were found through Google searches and are only being used for educational purposes.

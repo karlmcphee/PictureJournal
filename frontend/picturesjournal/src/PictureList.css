@@ -1,0 +1,21 @@
+.imagelist {
+    columns: 4 200px;
+    column-gap: 10px;
+  }
+  
+  img {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  
+  .btn-space {
+    margin-right: 5px;
+}
+
+.hr1 {
+    border: 10px solid darkgreen;
+}
+
+.title1 {
+    color: blue;
+}
